@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">a.NasaDailyImage</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_name">DSpurting Plasma</string>
+    <string name="image_date">Mon, 16 Jun 2014 12:00:00 EDT</string>
+    <string name="image_description">A stream of plasma burst out from the sun, but since it lacked
+        enough force to break away, most of it fell back into the sun (May 27, 2014).
+        The video, seen in a combination of two wavelengths of extreme ultraviolet light,
+        covers a little over two hours. This eruption was minor and such events occur almost
+        every day on the sun and suggest the kind of dynamic activity being driven by powerful
+        magnetic forces near the sun\'s surface.
+        The Stone Mountain Memorial half dollar was an American fifty-cent piece struck in 1925 at the Philadelphia Mint. Its main purpose was to raise money on behalf of the Stone Mountain Confederate Monumental Association for the Stone Mountain Memorial near Atlanta, Georgia. Designed by sculptor Gutzon Borglum, the coin features a depiction of Confederate generals Robert E. Lee and Stonewall Jackson on the obverse and the caption: "Memorial to the Valor of the Soldier of the South" on the reverse. The piece was also intended to be in memory of the recently deceased president, Warren G. Harding, but no mention of him appears on the coin.
+
+In the early 20th century, proposals were made to carve a large sculpture in memory of General Lee on Stone Mountain, a huge rock outcropping. The owners of Stone Mountain agreed to transfer title on condition the work was completed within 12 years. Borglum, who was, like others involved, a Ku Klux Klan member, was engaged to design the memorial, and proposed expanding it to include a colossal monument depicting Confederate warriors, with Lee, Jackson, and Confederate President Jefferson Davis leading them.
+
+The work proved expensive, and the Association advocated the issuance of a commemorative half dollar as a fundraiser for the memorial. Congress approved it, though to appease Northerners, the coin was also made in honor of Harding, under whose administration work had commenced. Borglum designed the coin, which was repeatedly rejected by the Commission of Fine Arts. All reference to Harding was removed from the design by order of President Calvin Coolidge.
+
+The Association sponsored extensive sales efforts for the coin throughout the South, though these were hurt by the firing of Borglum in 1925, which alienated many of his supporters, including the United Daughters of the Confederacy. A 1928 audit of the fundraising showed excessive expenses and misuse of money, and construction halted the same year—a scaled-down sculpture was eventually completed in 1970. Due to the large quantities issued—over a million remain extant—the Stone Mountain Memorial half dollar remains inexpensive compared with other U.S. commemoratives.
+        Image credit: NASA/Solar Dynamics Observatory</string>
+
+</resources>

@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+
+    repositories {
+        google()
+    }
+    defaultConfig {
+        applicationId "nitin.part2"
+        minSdkVersion 22
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    //Libraries for Android Async http and picasso
+    implementation 'com.loopj.android:android-async-http:1.4.4'
+    implementation 'com.squareup.picasso:picasso:2.1.1'
+}

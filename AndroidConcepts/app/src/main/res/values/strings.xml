@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Android Concepts - From Basics to Advanced</string>
+
+    <!--First Item in the List of Learning-->
+    <string name="image_activity">Image Activity Learning</string>
+    <string name="welcome">The Simpsons</string>
+
+    <!--Second Item in the List, learning buttons, test boxes and Linear (Horizontal) Layout-->
+    <string name="temp_converter">Temperature Conversion</string>
+
+    <string name="video_activity">Video (with Controls)</string>
+
+    <string name="audio_activity">Audio (with Controls)</string>
+
+    <string name="list_view">Multiplication Table (with SeekBar)</string>
+
+    <string name="timer">Timer (egg timer)</string>
+
+    <string name="intent">Intent - message passing</string>
+    <string name="hideUI">Hide N Show UI Elements</string>
+    <string name="title_activity_google_maps">Map</string>
+
+
+</resources>

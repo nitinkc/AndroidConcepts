@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.learning.nitin.androidconcepts">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 1. BRING OUT IMAGE AND CHANGE BETWEEN TWO IMAGES -->
+        <activity
+            android:name=".basics.ImageActivity"
+            android:label="@string/image_activity" />
+        <activity android:name=".DisplayMessageActivity">
+
+            <!-- android:label="@string/title_activity_display_message" > -->
+        </activity>
+        <activity
+            android:name=".basics.TemperatureConverter"
+            android:label="@string/temp_converter" />
+        <activity
+            android:name=".basics.VideoActivity"
+            android:label="@string/video_activity" />
+        <activity
+            android:name=".basics.AudioActivity"
+            android:label="@string/audio_activity" />
+        <activity
+            android:name=".GridViewActivity"
+            android:label="@string/audio_activity" />
+        <activity
+            android:name=".ListView_MultiplicationTable"
+            android:label="@string/list_view" />
+        <activity
+            android:name=".TimerActivity"
+            android:label="@string/timer" />
+        <activity
+            android:name=".IntentMessageActivity"
+            android:label="@string/intent" />
+        <activity
+            android:name=".HideUIElements"
+            android:label="@string/hideUI" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".mapsNgeoLocations.GoogleMapsActivity"
+            android:label="@string/title_activity_google_maps" />
+        <activity android:name=".mapsNgeoLocations.LocationActivity"></activity>
+    </application>
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+</manifest>

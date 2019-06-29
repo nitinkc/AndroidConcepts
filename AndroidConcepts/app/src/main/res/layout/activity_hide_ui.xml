@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="android.learning.nitin.androidconcepts.DisplayMessageActivity">
+
+    <TextView
+        android:id="@+id/theUIElement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="27dp"
+        android:text="This is a Text UI Element"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/hide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/theUIElement"
+        android:layout_marginEnd="68dp"
+        android:layout_marginTop="130dp"
+        android:onClick="hideUIElement"
+        android:text="HideUI" />
+
+    <Button
+        android:id="@+id/show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/hide"
+        android:layout_alignBottom="@+id/hide"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="54dp"
+        android:onClick="showUIElement"
+        android:text="Show UI" />
+
+    <ImageView
+        android:id="@+id/theImageelement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/theUIElement"
+        android:layout_marginTop="74dp"
+        android:src="@drawable/bart" />
+
+</RelativeLayout>

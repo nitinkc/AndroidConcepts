@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_85e7bde6defa14e43070d57b037a12be4a8217bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nitin.chaurasia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_d1c82310dbd06050eec1ce61871cb743cbf01be2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="900a1717022448100cbb75a16f21e976724743c4">
+        <dex dex="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_adef01c4c709ddba4d9bb232d29fd971db415f18\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_b4ea717207a00a9249a427654782e4279959102b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3dd1209d367215b36c856109b6ce7561107ffafe">
+        <dex dex="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6a7800ffef7b60f996a8f70aa48eb0ca54be598e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\nitin.chaurasia\Programming\Android\ListViewBA1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_f04fc68a825868ee5c24becc8d0e5709443fce61\classes.dex" />
+    </item>
+
+</items>
