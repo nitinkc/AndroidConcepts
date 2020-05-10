@@ -24,7 +24,7 @@ public class ImageActivity extends AppCompatActivity {
     public void buttonClick(View view){
 
         changeImage( view);
-        currencyConvertor();
+        //currencyConvertor();
 
     }
 
